@@ -17,5 +17,5 @@ console.log(sport)
 console.log(isPrime(30))
 
 // random words
-console.log(generate())
 console.log(generate({exactly:2}))
+console.log(generate({exactly:10}))
